@@ -58,6 +58,6 @@
 | ML Библиоека | scikit-learn 1.6.1 |
 | Обработка данных | pandas, numpy |
 | Визуализация | matplotlib, seaborn |
-| Модели ML | Logistic Regression, Random Forest, Gradient Boosting |
+| Модели ML | Logistic Regression, Random Forest, Decision Trees, Gradient Boosting |
 
 ---
